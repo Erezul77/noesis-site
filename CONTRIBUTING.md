@@ -1,0 +1,3 @@
+# 🤝 Contributing to Noēsis
+
+Thank you for your interest in contributing to **Noēsis** — a decentralized, ethical, evolving intelligence network...
