@@ -1,0 +1,33 @@
+
+body {
+  background: #0e0e11;
+  color: #f1f1f1;
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+header {
+  padding: 2rem;
+}
+.logo {
+  max-height: 80px;
+}
+main {
+  padding: 1rem 2rem;
+}
+.buttons a {
+  background: #222;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  margin: 1rem;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 10px;
+}
+footer {
+  font-size: 0.8rem;
+  color: #888;
+  margin-top: 2rem;
+  padding: 2rem;
+}
