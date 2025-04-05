@@ -4,11 +4,11 @@ function Home() {
   return (
     <div className="home">
       <section className="hero text-center bg-black text-white p-10">
-        <img
-          src="/logo.png"
-          alt="Noēsis Logo"
-          className="mx-auto w-32 h-32 mb-4"
-        />
+      <img
+  src="/logo.png"
+  alt="Noēsis Logo"
+  className="mx-auto w-16 h-16 mb-2"
+/>
         <h1 className="text-4xl md:text-6xl font-bold mb-4">Noēsis</h1>
         <p className="text-xl md:text-2xl mb-6">
           A Decentralized, Evolving, Ethical Intelligence
